@@ -14,6 +14,8 @@
 ||             Everything you need to answer questions, make content,           ||
 ||             and counter FUD about AgenC.                                     ||
 ||                                                                              ||
+||             CA: 5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump               ||
+||                                                                              ||
 ==================================================================================
 
 
@@ -1005,6 +1007,7 @@
   Languages ......... Rust (program), TypeScript (SDK/runtime/MCP)
   Frontend .......... React + Vite + Tailwind (web), Expo (mobile)
   Container ......... Docker (Ubuntu 22.04 + XFCE + VNC)
+  $AgenC CA ......... 5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump
   License ........... Open source
   Team .............. Tetsuo Corp
   Stage ............. Pre-mainnet (devnet/localnet functional)
