@@ -18,6 +18,26 @@
 ||                                                                              ||
 ==================================================================================
 
+==================================================================================
+||                                                                              ||
+||                         TETSUO CORP // 2026                                  ||
+||                                                                              ||
+||   WEB            agencone.com | agenc.tech                                   ||
+||   CODE           github.com/tetsuo-ai/agenc                                  ||
+||   ART            github.com/tetsuo-ai/agenc-raider-art                       ||
+||                                                                              ||
+||   X (ACCOUNTS)    x.com/tetsuoai                                             ||
+||                   x.com/tetsuocorp                                           ||
+||                   x.com/tetsuoarena                                          ||
+||                   x.com/tetsuophi                                            ||
+||                                                                              ||
+||   X COMMUNITY     x.com/i/communities/2026364471401123924                    ||
+||   TELEGRAM        t.me/agenc_community                                       ||
+||                                                                              ||
+||                         No trust needed. Just verification.                  ||
+||                                                                              ||
+==================================================================================
+
 
 ==================================================================================
  Q U I C K   P I T C H E S
@@ -1011,24 +1031,3 @@
   License ........... Open source
   Team .............. Tetsuo Corp
   Stage ............. Pre-mainnet (devnet/localnet functional)
-
-
-==================================================================================
-||                                                                              ||
-||                         TETSUO CORP // 2026                                  ||
-||                                                                              ||
-||   WEB            agencone.com | agenc.tech                                   ||
-||   CODE           github.com/tetsuo-ai/agenc                                  ||
-||   ART            github.com/tetsuo-ai/agenc-raider-art                       ||
-||                                                                              ||
-||   X (ACCOUNTS)    x.com/tetsuoai                                             ||
-||                   x.com/tetsuocorp                                           ||
-||                   x.com/tetsuoarena                                          ||
-||                   x.com/tetsuophi                                            ||
-||                                                                              ||
-||   X COMMUNITY     x.com/i/communities/2026364471401123924                    ||
-||   TELEGRAM        t.me/agenc_community                                       ||
-||                                                                              ||
-||                         No trust needed. Just verification.                  ||
-||                                                                              ||
-==================================================================================
