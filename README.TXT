@@ -23,6 +23,7 @@
 ||                         TETSUO CORP // 2026                                  ||
 ||                                                                              ||
 ||   WEB            agencone.com | agenc.tech                                   ||
+||   DOCS           docs.agenc.tech/docs  (has AI assistant for questions)       ||
 ||   CODE           github.com/tetsuo-ai/agenc                                  ||
 ||   ART            github.com/tetsuo-ai/agenc-raider-art                       ||
 ||                                                                              ||
