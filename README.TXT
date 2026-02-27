@@ -14,6 +14,8 @@
 ||             Everything you need to answer questions, make content,           ||
 ||             and counter FUD about AgenC.                                     ||
 ||                                                                              ||
+||             CA: 5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump               ||
+||                                                                              ||
 ==================================================================================
 
 
